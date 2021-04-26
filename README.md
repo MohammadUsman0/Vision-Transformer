@@ -1,7 +1,7 @@
 # Vision-Transformer
 Recent Reseach paper collection on vision tranformer
 
-## Implementation
+## Simple Implementation
 - [Text classification with Transformer](https://keras.io/examples/nlp/text_classification_with_transformer/)
 - [Image Classification with Vision Transformer](https://keras.io/examples/vision/image_classification_with_vision_transformer/)
 
