@@ -56,8 +56,6 @@ Recent Reseach paper collection on vision tranformer
 - **[TFill]** TFill: Image Completion via a Transformer-Based Architecture [[paper](https://arxiv.org/abs/2104.00845)]
 - Group-Free 3D Object Detection via Transformers [[paper](https://arxiv.org/abs/2104.00678)] [[code](https://github.com/zeliu98/Group-Free-3D)]
 - **[STGT]** Spatial-Temporal Graph Transformer for Multiple Object Tracking [[paper](https://arxiv.org/abs/2104.00194)] 
-- **[YOGO]** You Only Group Once: Efficient Point-Cloud Processing with Token
-Representation and Relation Inference Module[[paper](https://arxiv.org/abs/2103.09975)] [[code](https://github.com/chenfengxu714/YOGO.git)]
 - Going deeper with Image Transformers[[paper](https://arxiv.org/abs/2103.17239)] 
 - **[Stark]** Learning Spatio-Temporal Transformer for Visual Tracking [[paper](https://arxiv.org/abs/2103.17154)] [[code](https://github.com/researchmm/Stark)]
 - **[Meta-DETR]** Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning [[paper](https://arxiv.org/abs/2103.11731) [[code](https://github.com/ZhangGongjie/Meta-DETR)]
