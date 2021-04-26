@@ -15,6 +15,10 @@ Recent Reseach paper collection on vision tranformer
 ### Blog For Vision tansformer (ViT)
 - [How the Vision Transformer (ViT) works in 10 minutes: an image is worth 16x16 words](https://theaisummer.com/vision-transformer/)
 
+### Survey
+  - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.01.04
+  - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
+  - 
 ### arXiv papers
 - **[VidTr]** VidTr: Video Transformer Without Convolutions [[paper](https://arxiv.org/abs/2104.11746)] 
 - **[Skeletor]** Skeletor: Skeletal Transformers for Robust Body-Pose Estimation [[paper](https://arxiv.org/abs/2104.11712)] 
