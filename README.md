@@ -5,6 +5,11 @@ Recent Reseach paper collection on vision tranformer
 - [Text classification with Transformer](https://keras.io/examples/nlp/text_classification_with_transformer/)
 - [Image Classification with Vision Transformer](https://keras.io/examples/vision/image_classification_with_vision_transformer/)
 
+## Other Implementations 
+- [Vision Transformer (ViT) by huggingface](https://huggingface.co/transformers/model_doc/vit.html)
+- [Training data-efficient image transformers & distillation through attention (DeiT) by huggingface](https://keras.io/examples/vision/cct/)
+- [Compact Convolutional Transformers (Keras)](https://keras.io/examples/vision/cct/)
+
 ## Papers
 ### Transformer base Paper
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (NIPS 2017)
